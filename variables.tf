@@ -28,7 +28,7 @@ variable "my_ip_cidr" {
 variable "subnet_address" {
   type        = string
   description = "CIDR подсети"
-  default     = "10.0.0.0/24" # <-- ИЗМЕНИТЕ ПРИ НЕОБХОДИМОСТИ
+  default     = "10.0.0.0/24"
 }
 
 variable "vm_name" {
