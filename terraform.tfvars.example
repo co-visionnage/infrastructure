@@ -1,0 +1,12 @@
+project_id  = ""
+auth_key_id = ""
+auth_secret = ""
+vpc_id      = ""
+my_ip_cidr  = ""
+
+# optional
+subnet_address = ""
+vm_name        = ""
+disk_size      = 
+flavor         = ""
+zone           = ""
